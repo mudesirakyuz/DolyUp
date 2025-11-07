@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AnaMenuSahnesi.unity
+    guid: ebd0721a409ae70439b5ea115fec8cb8
+  - enabled: 1
+    path: Assets/Scenes/OyunSahnesi.unity
+    guid: a0851606667294f4dae4645053935522
+  - enabled: 1
+    path: Assets/Scenes/SkorSahnesi.unity
+    guid: 5bdc529549494dc45936f11d72c7d90c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
